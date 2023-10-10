@@ -39,7 +39,7 @@ crontab -e
 Структура документа:  
   {  
     _id: ObjectId("652483a0e499afb1fe2e07ec"),  
-    created_date: '2023-10-09T22:33:14', 
+    created_date: '2023-10-09T22:33:14',  
     data: '93. 83. 35. 2',  
     data_type: 'ip',  
     derived: '8447',  
